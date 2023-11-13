@@ -9,3 +9,7 @@ Cytryny to owoc należący do rodzaju roślin z rodziny rutaceae. Mają charakte
 Są często wykorzystywane do przygotowywania napojów, potraw kulinarnych oraz w przemyśle kosmetycznym.
 
 W krajach o ciepłym klimacie uprawa cytryn jest powszechna, a ich sok często stosowany jest jako naturalny środek konserwujący oraz dodatek do wielu potraw.
+Ciekawoski o cytynach:
++ Cytryny zawierają dużo witaminy C.
++ Ich kwasowy smak jest używany w kulinariach na całym świecie.
++ Skórka cytrynowa może być wykorzystywana do aromatyzowania potraw.

@@ -9,3 +9,7 @@ Pomeo to inna nazwa dla owoców granatu, które są znane z intensywnego czerwon
 Są bogate w przeciwutleniacze i często wykorzystywane w kuchni, zarówno do przygotowywania soków, jak i jako dodatek do dań mięsnych, sałatek czy deserów.
 
 Owoce granatu, znane także jako pomeo, są symbolem obfitości, zdrowia i płodności w wielu kulturach na całym świecie.
+Ciekawoski o pamelo:
++ Pomeo to hybryda cytryny i pomarańczy.
++ Charakteryzuje się połączeniem smaku obu owoców.
++ Ma delikatniejszy smak niż cytryny, ale mocniejszy niż pomarańcze.
