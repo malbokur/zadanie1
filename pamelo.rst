@@ -1,15 +1,24 @@
 Pomeo
 =========
-.. image:: zdjecia/pomelo.jpg
-   :alt: Pamelo
+
+.. figure:: ./zdjecia/pomelo.jpg
+   :align: center
+  
+   Pamelo
 
 
-Pomeo to inna nazwa dla owoców granatu, które są znane z intensywnego czerwonego koloru i charakterystycznego, kwaskowatego smaku.
+Krótka informacja:
+-------------------
 
-Są bogate w przeciwutleniacze i często wykorzystywane w kuchni, zarówno do przygotowywania soków, jak i jako dodatek do dań mięsnych, sałatek czy deserów.
+Pomelo to owoc pochodzący z rodziny cytrusów, 
+będący krzyżówką grejpfruta i pomarańczy. 
+Charakteryzuje się delikatnym, słodkim smakiem i jest bogaty w witaminy.
 
-Owoce granatu, znane także jako pomeo, są symbolem obfitości, zdrowia i płodności w wielu kulturach na całym świecie.
-Ciekawoski o pamelo:
-+ Pomeo to hybryda cytryny i pomarańczy.
-+ Charakteryzuje się połączeniem smaku obu owoców.
-+ Ma delikatniejszy smak niż cytryny, ale mocniejszy niż pomarańcze.
+Ciekawostki:
+------------
+
+1. Pomeło zawiera duże ilości witaminy C, witaminy A oraz błonnika, co sprawia, że jest korzystny dla zdrowia.
+2. Skórka pomeło może być używana do aromatyzowania potraw i napojów, podobnie jak skórki innych cytrusów.
+3. W porównaniu do grejpfruta, pomeło ma łagodniejszy smak i jest mniej gorzkie, co czyni go atrakcyjnym wyborem dla osób, które unikają intensywnego smaku grejpfruta.
+
+

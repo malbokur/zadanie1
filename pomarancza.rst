@@ -1,16 +1,25 @@
 Pomarańcze
 ==========
 
-.. image:: /zdjecia/pomarancza.jpg
-   :alt: pomarańcze
+.. figure:: ./zdjecia/pomarancza.jpg
+   :align: center
+  
+   pomarańcze
 
 
-Pomarańcze to owoce drzewa pomarańczowego, bogate w witaminę C i inne składniki odżywcze.
+Krótka informacja:
+-------------------
 
-Mają charakterystyczny słodko-gorzki smak i są powszechnie spożywane na surowo, w formie soku lub jako dodatek do wielu potraw.
+Pomarańcza to owoc pochodzący z drzewa pomarańczowego,
+znany ze swojego soczystego smaku i wysokiej zawartości witaminy C. 
+Jest popularnym składnikiem w diecie i spożywana jest na surowo lub w formie soków.
 
-Uprawa pomarańczy jest rozpowszechniona w krajach o ciepłym klimacie, a ich skórka często jest wykorzystywana jako składnik do wypieków oraz aromatycznych potraw.
-Ciekawoski o pomarańczach:
-+ Pomarańcze są bogate w witaminę C, podobnie jak cytryny.
-+ Mają słodszy smak niż cytryny.
-+ W niektórych krajach, olejek z pomarańczy jest wykorzystywany w aromaterapii.
+
+Ciekawostki:
+------------
+
+1. Pomarańcze są bogate w flawonoidy, które mają właściwości przeciwnowotworowe i przeciwwirusowe.
+2. Zawarte w pomarańczach karotenoidy, takie jak beta-karoten, są korzystne dla zdrowia oczu.
+3. Pomarańcze są często stosowane jako naturalny sposób na zwiększenie poziomu energii, dzięki zawartości cukrów prostych i witamin z grupy B.
+
+

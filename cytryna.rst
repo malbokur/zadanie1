@@ -1,15 +1,22 @@
 Cytryny
 =========
 
-.. image:: zdjecia/cytryna.jpg
-   :alt: Cytryna
+.. figure:: ./zdjecia/cytryna.jpg
+   :align: center
 
-Cytryny to owoc należący do rodzaju roślin z rodziny rutaceae. Mają charakterystyczny kwaśny smak i są bogate w witaminę C.
+   Cytryna
 
-Są często wykorzystywane do przygotowywania napojów, potraw kulinarnych oraz w przemyśle kosmetycznym.
+Krótka informacja o cytrynie:
+-----------------------------
 
-W krajach o ciepłym klimacie uprawa cytryn jest powszechna, a ich sok często stosowany jest jako naturalny środek konserwujący oraz dodatek do wielu potraw.
-Ciekawoski o cytynach:
-+ Cytryny zawierają dużo witaminy C.
-+ Ich kwasowy smak jest używany w kulinariach na całym świecie.
-+ Skórka cytrynowa może być wykorzystywana do aromatyzowania potraw.
+Cytryna to owoc pochodzący z drzewa cytrynowego, 
+znany ze swojego kwaśnego smaku i bogactwa witaminy C.
+Jest popularnym składnikiem w kuchni i powszechnie używany do przygotowywania napojów, potraw i deserów.
+
+Ciekawostki:
+------------
+
+1. Cytryny są bogate w antyoksydanty, które wspierają zdrowie skóry i układu immunologicznego.
+2. Kwas askorbinowy (witamina C) w cytrynach pomaga w utrzymaniu zdrowego kolagenu, wspierając elastyczność skóry.
+3. Cytryny są często stosowane do łagodzenia objawów przeziębienia, dzięki swoim właściwościom przeciwwirusowym.
+
